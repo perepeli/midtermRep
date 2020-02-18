@@ -10,7 +10,7 @@ package midterm;
  * @author Lenovo
  */
 public class Midterm {
-    /*212ASD12*/
+    /*212ASREMOTED12*/
     /**
      * @param args the command line arguments
      */
